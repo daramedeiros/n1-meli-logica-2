@@ -16,6 +16,7 @@ switch (operacao) {
         console.log( primeiroValor - segundoValor);
         break;
     case '*':
+        
         console.log(primeiroValor * segundoValor)
         break;
     case '/':
